@@ -3,7 +3,7 @@ proper platform to share time, knowledge, hobbies, ideas, learnings, intrests et
 1. The User starts the application and logs into the app, user can reset their password, if forgotten. 
 2. Then the user has to make their profile, by adding their Profile picture, thier course, field of study and year of study.
 3. User Can then access the home page, the home page will consist of many things:
-	i. User can search for their fellow classmates, friends or any students that have an account in the app. 
+	i. User can search for their fellow classmates, friends/peers or any students that have an account in the app. 
 	After adding them into their friends list, both users can then privately chat with each other.
 	ii. User can also join any discussions (they are basically public chat rooms, discussing about a specified mutual topic or event) they are intrested in
 	 or they can even start their own discussion rooms.
